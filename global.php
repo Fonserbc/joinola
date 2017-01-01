@@ -3,7 +3,7 @@ define('GJB_POSTCOMMAND_NAME', "gjb_command");
 define('GJB_PAY_ON_PAYPAL', false);
 
 $gjb_table_sufix_name = "gjb_participants";
-$gjb_cost = "5.00";
+$gjb_cost = "15.00";
 $gjb_online_discount_percent = "0";
 $gjb_normativa_link = "https://gamejambcn.com/gjb-2016/normativa/";
 
